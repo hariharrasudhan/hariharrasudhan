@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vimalhari206k
+- 👋 Hi, I’m @vimalhari206
 - 👀 I’m interested in Enginnering,Videography,Web development
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on ...
