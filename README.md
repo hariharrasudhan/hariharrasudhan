@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vimalhari206
-- 👀 I’m interested in Enginnering,Videography,Web development
-- 🌱 I’m currently learning Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m @vimalhari206
+-  I’m interested in Web development.
+-  I’m currently learning Computer Science Engineering
 
 <!---
 vimalhari206/vimalhari206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
