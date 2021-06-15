@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python,Java and C**
 
-- 📫 How to reach me **https://mail.google.com/mail/u/1/#inbox**
+- 📫 How to reach me **<a href="mailto:hariharrasudhan206@gmail.com">Email</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
