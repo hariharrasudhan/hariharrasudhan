@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariharrasudhan" alt="hariharrasudhan" /></a> </p>
 
-- 🔭 I’m currently pursuing my **2nd year Bachelor's Computer Science degree in Velammal College of Engineering and Technology**
+- 🔭 I’m currently pursuing my **3rd year Bachelor's Computer Science degree in Velammal College of Engineering and Technology**
 
 - 💬 Ask me about **Python,Java and C**
 
