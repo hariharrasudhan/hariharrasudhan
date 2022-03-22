@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing my **3rd year Bachelor's Computer Science degree in Velammal College of Engineering and Technology**
 
-- 💬 Ask me about **Python,Java and C**
+- 💬 Ask me about **Java,C and Python**
 
 - 📫 How to reach me **<a href="mailto:hariharrasudhan206@gmail.com">Email</a>**
 
